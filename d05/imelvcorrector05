@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    imelvcorrector05                                   :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: imelvill <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/01/15 20:13:27 by imelvill          #+#    #+#              #
+#    Updated: 2017/01/18 10:34:14 by imelvill         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+# pull mains to imelvd05 on dest
+norminette -R CheckForbiddenSourceHeader
+cp ~/Desktop/imelvd05/ex00/main.c ~/Desktop/imelvcor05/ex00/main.c
+cp ~/Desktop/imelvd05/ex01/main.c ~/Desktop/imelvcor05/ex01/main.c
+cp ~/Desktop/imelvd05/ex02/main.c ~/Desktop/imelvcor05/ex02/main.c
+cp ~/Desktop/imelvd05/ex03/main.c ~/Desktop/imelvcor05/ex03/main.c
+cp ~/Desktop/imelvd05/ex04/main.c ~/Desktop/imelvcor05/ex04/main.c
+cp ~/Desktop/imelvd05/ex05/main.c ~/Desktop/imelvcor05/ex05/main.c
+cp ~/Desktop/imelvd05/ex05/main.c ~/Desktop/imelvcor05/ex05/main.c

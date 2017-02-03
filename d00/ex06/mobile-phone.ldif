@@ -1,0 +1,8 @@
+dn: uid=imelvill,ou=january,ou=2017,ou=people,dc=42,dc=us,dc=org
+changetype: modify
+delete: mobile
+mobile: 424242
+-
+add: mobile
+mobile: 860.331.3261
+

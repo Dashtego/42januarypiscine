@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    maincopyd04                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: imelvill <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/01/14 19:47:07 by imelvill          #+#    #+#              #
+#    Updated: 2017/01/15 08:55:21 by imelvill         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#This file copies all corresponding main.c files to corrosponding directories in cloned #repo
+
+cp ex00/main.c ~/Desktop/imelvcor04/ex00/main.c
+cp ex01/main.c ~/Desktop/imelvcor04/ex01/main.c
+cp ex02/main.c ~/Desktop/imelvcor04/ex02/main.c
+cp ex03/main.c ~/Desktop/imelvcor04/ex03/main.c
+cp ex04/main.c ~/Desktop/imelvcor04/ex04/main.c

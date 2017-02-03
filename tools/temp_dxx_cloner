@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    gitCloner                                          :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: imelvill <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2017/01/15 20:26:27 by imelvill          #+#    #+#              #
+#    Updated: 2017/01/24 12:43:03 by imelvill         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#change day in git location under x   ---------------------------------x
+git clone vogsphere@vgs.42.us.org:intra/2017/activities/piscine_c_day_11/imelvill ~/d11 
+
+cp -r ~/d11temp/* ~/d11    #copies all files within temp directory to newly cloned directory
+echo '\n'                  
+echo "Change file headers!"   #add any warnings needed
+echo '\n'
